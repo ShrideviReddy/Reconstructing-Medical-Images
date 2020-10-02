@@ -14,10 +14,13 @@ To improve the performance of the autoencoders ‘skip connections’ can be add
 connections can directly send the feature maps from the an earlier layer of the encoder to a later layer of the decoder. This helps the decoder form more clearly defined
 decompressions of the input image.
 
-<center><img src="skipconn.png"/></center>
+<center><img src="skipconn.png" /></center>
 
 ## Results
 
 <center><img src="Autoencodermed.PNG"/></center>
+
+## Source:
+* https://towardsdatascience.com/using-skip-connections-to-enhance-denoising-autoencoder-algorithms-849e049c0ac9
 
 
