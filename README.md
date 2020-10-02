@@ -14,10 +14,10 @@ To improve the performance of the autoencoders ‘skip connections’ can be add
 connections can directly send the feature maps from the an earlier layer of the encoder to a later layer of the decoder. This helps the decoder form more clearly defined
 decompressions of the input image.
 
-<center><img src="images/VAE-logo.PNG"/></center>
+<center><img src="skipconn.PNG"/></center>
 
 ## Results
 
-<center><img src="images/VAE-logo.PNG"/></center>
+<center><img src="Autoencodermed.PNG"/></center>
 
 
