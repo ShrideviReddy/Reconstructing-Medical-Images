@@ -1,4 +1,4 @@
-# Reconstructing Medical Images
+# Reconstructing Medical Images using Deep learning
 
 ## Motivation
 
